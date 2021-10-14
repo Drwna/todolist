@@ -1,5 +1,6 @@
 import './main.js'
 import $ from 'jquery'
+import './style.css'
 
 
 $(function () {
